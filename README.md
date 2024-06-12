@@ -11,3 +11,5 @@ Finally, run go run to execute your program.
 ```bash
 go run .
 ```
+
+Code sampled from [ebiten.org](https://ebitengine.org/en/documents/install.html)
